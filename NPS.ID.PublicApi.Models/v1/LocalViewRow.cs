@@ -22,5 +22,6 @@ namespace Nordpool.ID.PublicApi.v1
 
 		public long DeliveryAreaId { get; set; }
 
+		public long RevisionNo { get; set; }
 	}
 }
