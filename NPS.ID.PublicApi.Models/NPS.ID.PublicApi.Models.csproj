@@ -9,4 +9,8 @@
     <RepositoryUrl>https://github.com/NordPool/public-intraday-net-api</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
+
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);RCS*</NoWarn>
+  </PropertyGroup>
 </Project>
