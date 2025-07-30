@@ -8,6 +8,7 @@
     <RootNamespace>NPS.ID.PublicApi.Models</RootNamespace>
     <RepositoryUrl>https://github.com/NordPool/public-intraday-net-api</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <AnalysisMode>Default</AnalysisMode>
   </PropertyGroup>
 
   <PropertyGroup>
